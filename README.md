@@ -511,8 +511,5 @@ export default function Home() {
 6. Restart Your Node and it will be fixed.
 
 
-👉 Join TG for more Updates: https://t.me/kind_cr
 
-
-Follow official Docs for more info and Errors!
 
